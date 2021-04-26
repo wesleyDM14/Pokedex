@@ -1,2 +1,4 @@
 # Pokedex
-A simple pokedex project
+A simple pokedex project using a pure javascript
+#Using api: 
+http://pokeapi.co/
